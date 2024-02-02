@@ -4,6 +4,8 @@
 
 My 3 great engineering loves are analyzing data, neural network quantization, and unit testing. At the risk of sounding like a complete nerd, I am super into working on very complex problems that have a strong coding aspect. It's how I get into flow state. At the moment, that is building a neutral network quantization library with never-before-seen tools and techniques, with an ultra-fast Rust backend.
 
+In the past, I've built a couple data-centered websites from scratch (see my projects below). Having seen my own designs, I will say with confidence that I should never be hired as a front-end developer, but for working numbers, I'm your guy 🤙
+
 ---
 
 ### 🧰 Languages and Tools
