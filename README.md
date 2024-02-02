@@ -29,7 +29,8 @@ I have some full-stack experience, and will build what I need to make to make so
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Understanding int8 neural network quantization](https://ytcards.demolab.com/?id=rzMs-wKQU_U&title=Understanding+int8+neural+network+quantization&lang=en&timestamp=1706473862&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Understanding int8 neural network quantization")](https://www.youtube.com/watch?v=rzMs-wKQU_U)
+[![The benefits of quantizing your neural network to int8](https://ytcards.demolab.com/?id=-nIF6brEKjQ&title=The+benefits+of+quantizing+your+neural+network+to+int8&lang=en&timestamp=1706473016&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The benefits of quantizing your neural network to int8")](https://www.youtube.com/watch?v=-nIF6brEKjQ)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/NeuralNetworkQuantization?sub_confirmation=1)
