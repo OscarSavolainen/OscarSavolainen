@@ -1,4 +1,4 @@
-### OscarSav
+### 👋 OscarSav
 
 **`Machine Learning Research Engineer`**
 
