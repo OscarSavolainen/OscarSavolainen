@@ -1,4 +1,4 @@
-### 🏄‍♂️ OscarSav
+### 🏄‍♂️ OscarSavolainenDR
 
 **`Machine Learning Research Engineer`**
 
@@ -41,9 +41,9 @@ In the past, I have dragged myself away from analyzing data to build a couple of
 
 ### 📊 Stats
 
-![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarSav&show_icons=true&theme=gruvbox)
+![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarSavolainenDR&show_icons=true&theme=gruvbox)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=OscarSav&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=OscarSavolainenDR&theme=gruvbox&border_radius=4.5)
 
 #
 
