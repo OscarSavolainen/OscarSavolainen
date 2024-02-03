@@ -2,7 +2,7 @@
 
 **`Machine Learning Research Engineer`**
 
-My 3 great engineering loves are analyzing [data](https://www.nature.com/articles/s41598-021-02277-0), neural network quantization, and unit testing of complex use cases. At the risk of sounding like a complete nerd, I am super into working on very complex problems that have a strong coding aspect. It's how I get into flow state. At the moment, that is building a neural network quantization library with never-before-seen tools and techniques that plugs in seamlessly into PyTorch, with an ultra-fast Rust backend. 
+My 3 great engineering loves are [analyzing data](https://www.nature.com/articles/s41598-021-02277-0), neural network quantization, and unit testing of complex use cases. At the risk of sounding like a complete nerd, I am super into working on very complex problems that have a strong coding aspect. It's how I get into flow state. At the moment, that is building a neural network quantization library with never-before-seen tools and techniques that plugs in seamlessly into PyTorch, with an ultra-fast Rust backend. 
 
 In the past, I dragged myself away from analyzing data to build a full-stack website ([R2SALeads](https://github.com/OscarSavolainenDR/R2SALeads), AutoScholar) from scratch, centred around, would you guess it, analyzing data. But seriously, if you value your eyes, hire me for processing data or backend work, not for the front end.
 
