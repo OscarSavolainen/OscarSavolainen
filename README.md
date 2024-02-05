@@ -35,7 +35,7 @@ My 3 great engineering loves are [analyzing data](https://www.nature.com/article
 [![The benefits of quantizing your neural network to int8](https://ytcards.demolab.com/?id=-nIF6brEKjQ&title=The+benefits+of+quantizing+your+neural+network+to+int8&lang=en&timestamp=1706473016&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The benefits of quantizing your neural network to int8")](https://www.youtube.com/watch?v=-nIF6brEKjQ)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@NeuralNetworkQuantization?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@OscarSavolainen?sub_confirmation=1)
 
 #
 
