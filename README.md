@@ -32,6 +32,7 @@ My 3 great engineering loves are [analyzing data](https://www.nature.com/article
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![How to statically quantize a PyTorch model (Eager mode)](https://ytcards.demolab.com/?id=hlcPz7wuf3M&title=How+to+statically+quantize+a+PyTorch+model+%28Eager+mode%29&lang=en&timestamp=1707919359&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to statically quantize a PyTorch model (Eager mode)")](https://www.youtube.com/watch?v=hlcPz7wuf3M)
 [![Understanding int8 neural network quantization](https://ytcards.demolab.com/?id=rzMs-wKQU_U&title=Understanding+int8+neural+network+quantization&lang=en&timestamp=1706473862&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Understanding int8 neural network quantization")](https://www.youtube.com/watch?v=rzMs-wKQU_U)
 [![The benefits of quantizing your neural network to int8](https://ytcards.demolab.com/?id=-nIF6brEKjQ&title=The+benefits+of+quantizing+your+neural+network+to+int8&lang=en&timestamp=1706473016&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The benefits of quantizing your neural network to int8")](https://www.youtube.com/watch?v=-nIF6brEKjQ)
 <!-- END YOUTUBE-CARDS -->
