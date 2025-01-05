@@ -2,9 +2,7 @@
 
 **`Machine Learning Research Engineer`**
 
-My 3 great engineering loves are [analyzing data](https://www.nature.com/articles/s41598-021-02277-0), neural network quantization, and building dev tools. At the risk of sounding like a complete nerd, I am super into working on ML tooling that solves very complex problems for devs, giving good control but abstracting away the difficulties. It's how I get into flow state. At the moment, that includes being a co-creator and main contributor to alma, a library for optimizing PyTorch inference, and working on state-of-the-art neural network quantization algorithms. 
- 
-<!--In the past, I have dragged myself away from analyzing data to build a couple full-stack websites ([R2SALeads](https://github.com/OscarSavolainenDR/R2SALeads), AutoScholar) from scratch, centred around, would you guess it, analyzing data. --> <!--But seriously, if you value beauty, hire me for processing data or backend work, not for the front end.-->
+My 3 great engineering loves are [analyzing data](https://www.nature.com/articles/s41598-021-02277-0), neural network quantization for edge devices and GPUs, and building ML dev tools. At the risk of sounding like a complete nerd, I am super into working on ML tooling that solves complex problems for devs, giving good control but abstracting away the difficulties. I find it very emotionally rewarding, since one is encouraged to write nice code and documentation that works on cutting-edge ML problems. At the moment, my main open-source work involves being a co-creator and main contributor to [alma](https://github.com/saifhaq/alma), a library for optimizing PyTorch inference, and working on state-of-the-art neural network quantization algorithms. 
  
 ---
 
